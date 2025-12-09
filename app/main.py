@@ -1,5 +1,5 @@
 """
-Главная точка входа приложения TriScan.
+Главная точка входа приложения DocStatus.
 
 Инициализирует FastAPI, подключает роутеры и управляет жизненным циклом
 приложения (создание таблиц, заполнение тестовыми данными) через lifespan.
@@ -79,9 +79,9 @@ async def lifespan(app: FastAPI):
 
 # Инициализация приложения с передачей lifespan
 app = FastAPI(
-    title="TriScan Modular API",
+    title="DocStatus Modular API",
     description="Бэкенд мобильного приложения для верификации документов.",
-    version="2.1.0",
+    version="0.1.0",
     lifespan=lifespan
 )
 
