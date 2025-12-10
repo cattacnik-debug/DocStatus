@@ -1,0 +1,47 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <group>
+        <path
+            android:fillColor="#509BFF"
+            android:pathData="M7,15L7,7L15,7L15,9L9,9L9,15z" />
+        <path
+            android:fillColor="#509BFF"
+            android:pathData="M33,7L41,7L41,15L39,15L39,9L33,9z" />
+        <path
+            android:fillColor="#509BFF"
+            android:pathData="M7,33L9,33L9,39L15,39L15,41L7,41z" />
+        <path
+            android:fillColor="#509BFF"
+            android:pathData="M33,39L39,39L39,33L41,33L41,41L33,41z" />
+
+        <path
+            android:fillColor="#509BFF"
+            android:pathData="M19,19 h4 v4 h-4 z" />
+        <path
+            android:fillColor="#509BFF"
+            android:pathData="M25,19 h4 v4 h-4 z" />
+        <path
+            android:fillColor="#509BFF"
+            android:pathData="M19,25 h4 v4 h-4 z" />
+
+        <!-- Glitching square -->
+        <path
+            android:fillColor="#509BFF"
+            android:pathData="M25,25 h2 v1 h-2 z" />
+        <path
+            android:fillColor="#509BFF"
+            android:pathData="M28,25 h1 v2 h-1 z" />
+        <path
+            android:fillColor="#509BFF"
+            android:pathData="M25,27 h1 v2 h-1 z" />
+        <path
+            android:fillColor="#509BFF"
+            android:pathData="M27,28 h2 v1 h-2 z" />
+        <path
+            android:fillColor="#509BFF"
+            android:pathData="M26,26 h1 v1 h-1 z" />
+    </group>
+</vector>

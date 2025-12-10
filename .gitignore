@@ -1,3 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
 # Игнорируемые файлы и папки
 __pycache__/
 *.py[cod]
@@ -15,3 +19,34 @@ __pycache__/
 
 # Логи IDE
 .vscode/
+.idea/
+
+# Android Studio generated files
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Билд каталоги
+/build
+/app/build
+
+# AAB файлы
+*.aab
+*.ap_
+
+# Keystore afqks
+*.keystore
+
+# Google Services
+google-services.json
+
+
+.cxx/
+captures/
+.DS_Store

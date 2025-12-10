@@ -1,0 +1,32 @@
+# Android Studio generated files
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Build folder
+/build
+/app/build
+
+# APKs and other build outputs
+*.apk
+*.aab
+*.ap_
+
+# Keystore files
+*.keystore
+
+# Google Services (if applicable)
+google-services.json
+
+# Dependency-specific ignores
+.cxx/
+captures/
+
+# macOS specific
+.DS_Store
